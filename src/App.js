@@ -9,6 +9,7 @@ import Silver from './components/Silver';
 function App() {
   return (
     <>
+    {/* hello jibran */}
     <Navbar/>
     <Premium/>
     <Gold/>
