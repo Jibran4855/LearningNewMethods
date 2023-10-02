@@ -11,6 +11,7 @@ const Test = () => (
     <p>Test here</p>
     <p>Hello from bilal</p>
     <p>How have you been?</p>
+    <p>Kindly merge this pull request</p>
   </div>
 );
 
