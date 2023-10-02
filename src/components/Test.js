@@ -10,6 +10,7 @@ const Test = () => (
     <p>Hello</p>
     <p>Test here</p>
     <p>Hello from bilal</p>
+    <p>How have you been?</p>
   </div>
 );
 
